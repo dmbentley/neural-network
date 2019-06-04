@@ -1,5 +1,7 @@
 # neural-network
 
+![](./images/training.gif)
+
 In this notebook we read the EMNIST data containing images of handwritten digits.
 
 ![Alt text](./images/human-classification.png?raw=true "Title")
